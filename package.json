@@ -1,0 +1,16 @@
+{
+  "name": "stealthaddressgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generateStealthAddress.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bs58": "^4.0.1",
+    "crypto": "^1.0.1",
+    "secp256k1": "^3.6.2"
+  }
+}
